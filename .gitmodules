@@ -1,0 +1,8 @@
+[submodule "jbosstools-base"]
+	path = jbosstools-base
+	url = ../jbosstools-base
+	branch = jbosstools-4.0.x
+[submodule "jbosstools-server"]
+	path = jbosstools-server
+	url = ../jbosstools-server
+	branch = jbosstools-4.0.x
